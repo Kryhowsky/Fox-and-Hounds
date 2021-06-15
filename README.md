@@ -1,6 +1,6 @@
 # Fox-and-Hounds
 
-Project realized during studies. The goal of the project is an application with a graphical user interface that allows you to play Fox and Hounds (https://en.wikipedia.org/wiki/Fox_games).The application should have the following properties:
+Project realized during studies. The goal of the project is an application with a graphical user interface that allows you to play Fox and Hounds (https://en.wikipedia.org/wiki/Fox_games). The application should have the following properties:
 - convenient and intuitive way to control
 - the ability to save and read the game state from a file specified by the user
 - possibility of playing for two people
